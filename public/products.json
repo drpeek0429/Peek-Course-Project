@@ -1,0 +1,255 @@
+{
+  "products": [
+    {
+      "id": 12,
+      "sku": 45678912345,
+      "title": "White Coyote",
+      "description": "White chocolate, vanilla and caramel",
+      "availableSizes": ["S", "M", "L"],
+      "style": "White chocolate, vanilla and caramel",
+      "price": 10.9,
+      "installments": 0,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 13,
+      "sku": 123456987,
+      "title": "Salted White Coyote",
+      "description": "White Chocolate, vanilla and salted caramel",
+      "availableSizes": ["S", "M", "L"],
+      "style": "White Chocolate, vanilla and salted caramel",
+      "price": 29.99,
+      "installments": 0,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 14,
+      "sku": 5478963211,
+      "title": "Coyote Ugly",
+      "description": "Chocolate, caramel, and white chocolate",
+      "availableSizes": ["X", "L", "XL"],
+      "style": "Chocolate, caramel, and white chocolate",
+      "price": 9.0,
+      "installments": 0,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 15,
+      "sku": 12389756425,
+      "title": "Mudslide",
+      "description": "Chocolate, vanilla and caramel",
+      "availableSizes": ["X", "L", "XL", "XXL"],
+      "style": "Chocolate, vanilla and caramel",
+      "price": 14.0,
+      "installments": 0,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 11,
+      "sku": 85479632145,
+      "title": "Tumbling Tiramisu",
+      "description": "Tiramisu and white chocolate",
+      "availableSizes": ["X", "L"],
+      "style": "Tiramisu and white chocolate",
+      "price": 13.25,
+      "installments": 0,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 16,
+      "sku": 78915984568,
+      "title": "Canyon Crunch",
+      "description": "Toffee and chocolate or white chocolate",
+      "availableSizes": ["XS", "X", "L", "ML", "XL"],
+      "style": "Toffee and chocolate or white chocolate",
+      "price": 75.0,
+      "installments": 0,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 17,
+      "sku": 96325874123,
+      "title": "Howling Hazelnut",
+      "description": "Hazelnut and white chocolate or chocolate",
+      "availableSizes": ["XS", "X", "L", "ML", "XL"],
+      "style": "Hazelnut and white chocolate or chocolate",
+      "price": 125.0,
+      "installments": 0,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 0,
+      "sku": 7419632587465,
+      "title": "Coconut Cream",
+      "description": "Coconut and white chocolate",
+      "availableSizes": ["X", "L", "XL", "XXL"],
+      "style": "Coconut and white chocolate",
+      "price": 10.9,
+      "installments": 0,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 1,
+      "sku": 123475698414,
+      "title": "Cowboy S'More",
+      "description": "Toasted marshmallow, vanilla and chocolate",
+      "availableSizes": ["X", "L", "XL", "XXL"],
+      "style": "Toasted marshmallow, vanilla and chocolate",
+      "price": 10.9,
+      "installments": 0,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 2,
+      "sku": 458975362145,
+      "title": "White Turtle",
+      "description": "Butter pecan, white chocolate and caramel",
+      "availableSizes": ["X", "L"],
+      "style": "Butter pecan, white chocolate and caramel",
+      "price": 14.9,
+      "installments": 0,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 3,
+      "sku": 75315982642025,
+      "title": "Birthday Cake Mocha",
+      "description": "White chocolate, cupcake and vanilla",
+      "availableSizes": ["X", "L"],
+      "style": "White chocolate, cupcake and vanilla",
+      "price": 14.9,
+      "installments": 0,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 4,
+      "sku": 45678912345,
+      "title": "Chuckawalla",
+      "description": "White chocolate, shortbread, vanilla bean, cinnamon sprinkle",
+      "availableSizes": ["XL"],
+      "style": "White chocolate, shortbread, vanilla bean, cinnamon sprinkle",
+      "price": 25.9,
+      "installments": 0,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 5,
+      "sku": 85165845151,
+      "title": "Black Bear",
+      "description": "White chocolate and chocolate",
+      "availableSizes": ["X", "L", "XL"],
+      "style": "White chocolate and chocolate",
+      "price": 10.9,
+      "installments": 0,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 6,
+      "sku": 8165165462,
+      "title": "Javelina Cheesecake Swirl",
+      "description": "Cheesecake, tiramisu, white cholate & butter pecan",
+      "availableSizes": ["XL", "XXL"],
+      "style": "Cheesecake, tiramisu, white cholate & butter pecan",
+      "price": 49.9,
+      "installments": 0,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 7,
+      "sku": 45678912345,
+      "title": "Full Moon",
+      "description": "Irish cream and white chocolate",
+      "availableSizes": ["S"],
+      "style": "Irish cream and white chocolate",
+      "price": 22.5,
+      "installments": 0,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 8,
+      "sku": 458975362145,
+      "title": "Sahara Swirl",
+      "description": "White chocolate, and vanilla with cinnamon sprinkle",
+      "availableSizes": ["XL"],
+      "style": "White chocolate, and vanilla with cinnamon sprinkle",
+      "price": 18.7,
+      "installments": 0,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 9,
+      "sku": 123456789,
+      "title": "Wild Cat",
+      "description": "Coconut, vanilla, banana, almond and cinnamon sprinkle",
+      "availableSizes": ["L", "XL"],
+      "style": "Coconut, vanilla, banana, almond and cinnamon sprinkle",
+      "price": 134.9,
+      "installments": 0,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 10,
+      "sku": 98461257632,
+      "title": "Cactus Rose",
+      "description": "Raspberry and white chocolate",
+      "availableSizes": ["L", "XL"],
+      "style": "Raspberry and white chocolate",
+      "price": 49.0,
+      "installments": 0,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "isFreeShipping": true
+    }
+  ]
+}
